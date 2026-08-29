@@ -4,7 +4,6 @@
       <p style="font-size: 1.2em; padding: 10px;">Welcome to my README!</p>
       <hr/>
       <h2 style="font-size: 1.5em; background: lightgray; padding: 10px;">About Me👨‍💻</h2>
-      <img src="https://i.imgur.com/Vt3hnPI.jpeg" alt="MyLogo" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;" />
       <p style="font-size: 1.2em; padding: 10px;">I am a passionate developer👨‍💻 with experience in building web applications <br /> using modern technologies⚙️.
          I enjoy learning new things and sharing my knowledge with the community📱.</p>
       <hr/>
