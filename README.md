@@ -9,7 +9,7 @@
       <hr/>
       <h2 style="font-size: 1.5em; background: lightgray; padding: 10px;">Skills 🥷</h2>
       <ul style="list-style: none; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-        <li><img src="https://imgs.search.brave.com/HnggWsUTAZvxuldr4djzvlH3bxWn669jRcAah5ea974/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly/zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3Mvai82/OS9qYXZhc2NyaXB0/LnN2Zw" alt="JavaScript" style="width: 30px; height: 30px;" /> JavaScript (ES6+)</li>
+        <li><img src="https://imgs.search.brave.com/s46Vzfu_B6bLqOGbe598ye_0favdWdD201skpsoN-LI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3Mvai82/OS9qYXZhc2NyaXB0/LnN2Zw" alt="JavaScript" style="width: 30px; height: 30px;" /> JavaScript (ES6+)</li>
         <li><img src="https://imgs.search.brave.com/ie8z3M9Y0EladgN2heR_-j7pM4_gk5NHN40gRqVb3_k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNjcv/NTY1LzUzNi9zbWFs/bC9yZWFjdC1sb2dv/LXJvdW5kZWQtZnJl/ZS1wbmcucG5n" alt="React" style="width: 30px; height: 30px;" /> React.js</li>
         <li><img src="https://imgs.search.brave.com/worAWXsbZXMo1aikCmjQX94OBWnzzaMTYPSB1eu4Pko/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9odG1sLTUtbG9n/by1zdmctMS5zdmc" alt="HTML" style="width: 30px; height: 30px;" /> HTML5</li>
         <li><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" style="width: 30px; height: 30px;" /> CSS3</li>
