@@ -1,5 +1,6 @@
 <div style="text-align: center; font-family: Arial, sans-serif; background-color: #fafdfb; padding: 20px;">
-      <img src="https://pika.art/video/879cd6c0-b9d1-4528-9101-701cbb4ff74f" alt="MyImage" style="max-width: 100%; height: auto; border-radius: 10px;" />
+      ![Animation](ayin_patkeri_haçev/kam_gif_linkn_aystex.gif)
+      <img src="" alt="MyImage" style="max-width: 100%; height: auto; border-radius: 10px;" />
       <h1 style="font-size: 2em; background: lightgray; padding: 10px;">Hi 👋, I`m Erik</h1>
       <p style="font-size: 1.2em; padding: 10px;">Welcome to my README!</p>
       <hr/>
