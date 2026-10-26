@@ -25,5 +25,6 @@ https://github.com/user-attachments/assets/0803ca55-f702-420a-808c-ecedb00bf178
       <p style="font-size: 1.2em; padding: 10px;">You can reach me at:</p>
       <ul style="list-style: none; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
         <li>Email: <a href="mailto:ohanyanero79@gmail.com">ohanyanero79@gmail.com</a></li>
+       <li>Linkedin: <a href="https://www.linkedin.com/in/erik-ohanyan-023336399/?isSelfProfile=true">Linkedin</a></li>
       </ul>
 </div>
