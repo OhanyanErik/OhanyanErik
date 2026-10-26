@@ -30,7 +30,7 @@ A dashboard for organizing job applications, updating their statuses, and findin
 **Built with:** React, JavaScript, CSS  
 [View repository](https://github.com/OhanyanErik/firstProjest)
 
-##Contacts
+Contact with Me🙋
 <li>Linkedin: <a href="https://www.linkedin.com/in/erik-ohanyan-023336399/?isSelfProfile=true">Linkedin</a></li>
 <li>Email: <a href="mailto:ohanyanero79@gmail.com">ohanyanero79@gmail.com</a></li> 
 
